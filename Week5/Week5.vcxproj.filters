@@ -15,34 +15,28 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Week4_1.c">
+    <ClCompile Include="Week5_1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Week4_2.c">
+    <ClCompile Include="Week5_2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Week4_3.c">
+    <ClCompile Include="Week5_3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Week4_4.c">
+    <ClCompile Include="Week5_4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Week4_5.c">
+    <ClCompile Include="Week5_5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Week4_6.c">
+    <ClCompile Include="Week5_6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Week4_7.c">
+    <ClCompile Include="Week5_7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Week4_8.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Week4_9.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Week4_10.c">
+    <ClCompile Include="Week5_8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
