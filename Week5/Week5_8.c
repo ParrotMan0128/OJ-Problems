@@ -3,7 +3,8 @@
 #include <stdio.h>
 
 int main() {
-double income;
+
+	double income;
 	double tax;
 
 	printf("과세 표준을 입력하시오(만원): ");
