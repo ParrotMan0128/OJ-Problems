@@ -15,12 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Week7_1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Week7_2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="Week7_3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -43,6 +37,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Week7_10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Week7_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Week7_2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
