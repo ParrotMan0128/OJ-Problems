@@ -8,3 +8,4 @@
 + MockTest: 모의고사 ✅
 + MidtermTest: 중간고사 ✅
 + Week 7: 배열 ✅
++ Week 8: 함수 ✅
