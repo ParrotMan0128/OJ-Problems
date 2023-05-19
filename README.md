@@ -7,3 +7,4 @@
 + Week 6: 반복문 ✅
 + MockTest: 모의고사 ✅
 + MidtermTest: 중간고사 ✅
++ Week 7: 배열 ✅
