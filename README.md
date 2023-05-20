@@ -1,5 +1,7 @@
 ﻿# OJ-Problems
 
+### 문제 번호를 클릭하면 코드를 볼 수 있습니다.
+
 + Week 1: 프로그래밍 소개 *(2023-03-06)* ✅
 	+ [<01>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week1/HelloWorld.c)
 + Week 2: 기초 사항 *(2023-03-13)* ✅
