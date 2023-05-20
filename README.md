@@ -1,6 +1,7 @@
 ﻿# OJ-Problems
 
 + Week 1: 프로그래밍 소개 *(2023-03-06)* ✅
+++ [01](https://github.com/ParrotMan0128/OJ-Problems/blob/master/Week1/HelloWorld.c)
 + Week 2: 기초 사항 *(2023-03-13)* ✅
 + Week 3: 변수와 자료형 *(2023-03-20)* ✅
 + Week 4: 수식과 연산자 *(2023-03-27)* ✅
