@@ -12,7 +12,10 @@ int main() {
 	printf("print_array()\n");
 	print_array(data, 10);
 	printf("\n");
-	printf("배열 요소의 합=%d", get_array_sum(data, 10));
+
+	int sum = get_array_sum(data, 10);
+
+	printf("배열 요소의 합=%d", sum);
 
 	return 0;
 
