@@ -52,7 +52,19 @@
 	[<09>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week6/Week6_9.c)
 	[<10>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week6/Week6_10.c)
 + MockTest: 모의고사 *(2023-04-19)* ✅
+	+ [<01>](https://github.com/ParrotMan0128/OJ-Problems/blob/34c03a9c078d11de215bda6115e832c450060f78/MockTest/Problem1.c)
+	[<02>](https://github.com/ParrotMan0128/OJ-Problems/blob/34c03a9c078d11de215bda6115e832c450060f78/MockTest/Problem2.c)
+	[<03>](https://github.com/ParrotMan0128/OJ-Problems/blob/34c03a9c078d11de215bda6115e832c450060f78/MockTest/Problem3.c)
+	[<04>](https://github.com/ParrotMan0128/OJ-Problems/blob/34c03a9c078d11de215bda6115e832c450060f78/MockTest/Problem4.c)
+	[<05>](https://github.com/ParrotMan0128/OJ-Problems/blob/34c03a9c078d11de215bda6115e832c450060f78/MockTest/Problem5.c)
+	[<06>](https://github.com/ParrotMan0128/OJ-Problems/blob/34c03a9c078d11de215bda6115e832c450060f78/MockTest/Problem6.c)
 + **MidtermTest: 중간고사** *(2023-04-24)*  *(6 Problems/6 Solved)* 💯
+	+ [<01>](https://github.com/ParrotMan0128/OJ-Problems/blob/34c03a9c078d11de215bda6115e832c450060f78/MidtermTest/Problem1.c)
+	[<02>](https://github.com/ParrotMan0128/OJ-Problems/blob/34c03a9c078d11de215bda6115e832c450060f78/MidtermTest/Problem2.c)
+	[<03>](https://github.com/ParrotMan0128/OJ-Problems/blob/34c03a9c078d11de215bda6115e832c450060f78/MidtermTest/Problem3.c)
+	[<04>](https://github.com/ParrotMan0128/OJ-Problems/blob/34c03a9c078d11de215bda6115e832c450060f78/MidtermTest/Problem4.c)
+	[<05>](https://github.com/ParrotMan0128/OJ-Problems/blob/34c03a9c078d11de215bda6115e832c450060f78/MidtermTest/Problem5.c)
+	[<06>](https://github.com/ParrotMan0128/OJ-Problems/blob/34c03a9c078d11de215bda6115e832c450060f78/MidtermTest/Problem6.c)
 + Week 7: 배열 *(2023-05-04)* ✅
 	+ [<01>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week7/Week7_1.c)
 	[<02>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week7/Week7_2.c)
