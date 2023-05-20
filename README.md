@@ -3,7 +3,7 @@
 + Week 1: 프로그래밍 소개 *(2023-03-06)* ✅
 	+ [<01>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week1/HelloWorld.c)
 + Week 2: 기초 사항 *(2023-03-13)* ✅
-[<01>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week2/Week2_1.c)
+	+ [<01>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week2/Week2_1.c)
 [<02>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week2/Week2_2.c)
 [<03>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week2/Week2_3.c)
 [<04>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week2/Week2_4.c)
