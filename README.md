@@ -22,7 +22,7 @@
 	[<06>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week3/Week3_6.c)
 	[<07>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week3/Week3_7.c)
 	[<08>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week3/Week3_8.c)
-+ Week 4: 수식과 연산자 *(Completed in -03-29)* ✅
++ Week 4: 수식과 연산자 *(Completed in 2023-03-29)* ✅
 	+ [<01>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week4/Week4_1.c)
 	[<02>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week4/Week4_2.c)
 	[<03>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week4/Week4_3.c)
