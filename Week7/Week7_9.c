@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -32,7 +32,7 @@ int main(void) {
 
 	}
 
-	printf("°¡Àå ¸¹ÀÌ »ı¼ºµÈ ¼ö=%d", index);
+	printf("ê°€ì¥ ë§ì´ ìƒì„±ëœ ìˆ˜=%d", index);
 
 	return 0;
 

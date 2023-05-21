@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -17,7 +17,7 @@ int main(void) {
 
 	}
 
-	printf("±¸±¸´ÜÀ» ÀÔ·ÂÇÏ½Ã¿À(¿¹: 9 3):");
+	printf("êµ¬êµ¬ë‹¨ì„ ì…ë ¥í•˜ì‹œì˜¤(ì˜ˆ: 9 3):");
 	scanf("%d %d", &x, &y);
 
 	printf("%dX%d=%d", x, y, timesTable[x - 1][y - 1]);

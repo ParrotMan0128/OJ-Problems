@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -10,12 +10,12 @@ int main(void) {
 
 	int matB[100][100];
 
-	printf("Çà °³¼ö=");
+	printf("í–‰ ê°œìˆ˜=");
 	scanf("%d", &x);
-	printf("¿­ °³¼ö=");
+	printf("ì—´ ê°œìˆ˜=");
 	scanf("%d", &y);
 
-	printf("Çà·Ä ÀÔ·Â=\n");
+	printf("í–‰ë ¬ ìž…ë ¥=\n");
 	for (int i = 0; i < x; i++) {
 
 		for (int j = 0; j < y; j++) {

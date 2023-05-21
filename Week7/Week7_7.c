@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -11,12 +11,12 @@ int main(void) {
 
 	int matC[100][100];
 
-	printf("Çà °³¼ö=");
+	printf("í–‰ ê°œìˆ˜=");
 	scanf("%d", &x);
-	printf("¿­ °³¼ö=");
+	printf("ì—´ ê°œìˆ˜=");
 	scanf("%d", &y);
 
-	printf("Ã¹ ¹øÂ° Çà·Ä ÀÔ·Â=\n");
+	printf("ì²« ë²ˆì§¸ í–‰ë ¬ ìž…ë ¥=\n");
 	for (int i = 0; i < x; i++) {
 
 		for (int j = 0; j < y; j++) {
@@ -27,7 +27,7 @@ int main(void) {
 
 	}
 
-	printf("µÎ¹øÂ° Çà·Ä ÀÔ·Â=\n");
+	printf("ë‘ë²ˆì§¸ í–‰ë ¬ ìž…ë ¥=\n");
 	for (int i = 0; i < x; i++) {
 
 		for (int j = 0; j < y; j++) {
@@ -38,7 +38,7 @@ int main(void) {
 
 	}
 
-	//Çà·Ä°ö ÆÄ¾ÇÁß....
+	//í–‰ë ¬ê³± íŒŒì•…ì¤‘....
 	//c[0][0] = a[0][0] * b[0][0] + a[0][1] * b[1][0] + a[0][2] * b[2][0] -> 1 * 2 + 1 * 3 + 1 * 1 = 6
 
 	//c[0][1] = a[0][0] * b[0][1] + a[0][1] * b[1][1] + a[0][2] * b[2][1] -> 1 * 2 + 1 * 3 + 1 * 1 = 6 

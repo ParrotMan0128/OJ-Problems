@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -8,12 +8,12 @@ int main(void) {
 	int num;
 	int freq[100] = { 0, };
 
-	printf("ÀÔ·ÂÇÒ Á¤¼öÀÇ °³¼ö(10°³ ÀÌ³»·Î):");
+	printf("ì…ë ¥í•  ì •ìˆ˜ì˜ ê°œìˆ˜(10ê°œ ì´ë‚´ë¡œ):");
 	scanf("%d", &n);
 
 	for (int i = 0; i < n; i++) {
 
-		printf("%d¹øÂ° ¿ä¼Ò¸¦ ÀÔ·ÂÇÏ½Ã¿À:", i);
+		printf("%dë²ˆì§¸ ìš”ì†Œë¥¼ ì…ë ¥í•˜ì‹œì˜¤:", i);
 		scanf("%d", &num);
 
 		freq[num]++;
@@ -23,7 +23,7 @@ int main(void) {
 
 		if (freq[i] > 0) {
 
-			printf("%d °ªÀº %d ¹ø µîÀå\n", i, freq[i]);
+			printf("%d ê°’ì€ %d ë²ˆ ë“±ì¥\n", i, freq[i]);
 
 		}
 

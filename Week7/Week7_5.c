@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -24,7 +24,7 @@ int main(void) {
 
 	avg = sum / 9.0;
 
-	printf("Æò±ÕÁ¡¼ö=%lf", avg);
+	printf("í‰ê· ì ìˆ˜=%lf", avg);
 
 	return 0;
 
