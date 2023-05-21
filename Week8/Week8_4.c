@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -18,7 +18,7 @@ int main() {
 
 void getDivisor(int value) {
 
-	printf("%dÀÇ ¾à¼ö:", value);
+	printf("%dì˜ ì•½ìˆ˜:", value);
 
 	for (int i = 1; i <= value; i++) {
 

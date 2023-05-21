@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 #include <time.h>
@@ -18,12 +18,12 @@ int main() {
 
 	if (userCoin != coin) {
 
-		printf("»ç¿ëÀÚ°¡ ÀÌ°å½À´Ï´Ù.");
+		printf("ì‚¬ìš©ìê°€ ì´ê²¼ìŠµë‹ˆë‹¤.");
 
 	}
 	else {
 
-		printf("ÄÄÇ»ÅÍ°¡ ÀÌ°å½À´Ï´Ù.");
+		printf("ì»´í“¨í„°ê°€ ì´ê²¼ìŠµë‹ˆë‹¤.");
 
 	}
 
