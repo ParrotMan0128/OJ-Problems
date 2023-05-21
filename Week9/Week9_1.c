@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -15,7 +15,7 @@ int main() {
 
 	int sum = get_array_sum(data, 10);
 
-	printf("¹è¿­ ¿ä¼ÒÀÇ ÇÕ=%d", sum);
+	printf("ë°°ì—´ ìš”ì†Œì˜ í•©=%d", sum);
 
 	return 0;
 
