@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -9,7 +9,7 @@ int main() {
 
 	int sum = 0;
 
-	printf("¼ö½ÄÀ» ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("ìˆ˜ì‹ì„ ì…ë ¥í•˜ì‹œì˜¤: ");
 	scanf("%d %c %d", &inputs[0], &c, &inputs[1]);
 
 	switch (c) {

@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -6,17 +6,17 @@ int main() {
 
 	char input;
 
-	printf("¹®ÀÚ¸¦ ÀÔ·ÂÇÏ½Ã¿À:");
+	printf("ë¬¸ìžë¥¼ ìž…ë ¥í•˜ì‹œì˜¤:");
 	scanf("%c", &input);
 
 	if (((int)input >= 65 && (int)input <= 90)) {
 
-		printf("´ë¹®ÀÚÀÔ´Ï´Ù.\n");
+		printf("ëŒ€ë¬¸ìžìž…ë‹ˆë‹¤.\n");
 
 	}
 	else if (((int)input >= 97 && (int)input <= 122)) {
 
-		printf("¼Ò¹®ÀÚÀÔ´Ï´Ù.\n");
+		printf("ì†Œë¬¸ìžìž…ë‹ˆë‹¤.\n");
 
 	}
 
