@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -19,7 +19,7 @@ int main() {
 
 void setArrayValue(int* array, int size) {
 
-	printf("5°³ÀÇ Á¤¼ö¸¦ ÀÔ·ÂÇÏ½Ã¿À:");
+	printf("5ê°œì˜ ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì‹œì˜¤:");
 
 	for (int i = 0; i < size; i++) {
 
@@ -31,7 +31,7 @@ void setArrayValue(int* array, int size) {
 
 void printReversedArray(int* array, int size) {
 
-	printf("¿ª¼ø: ");
+	printf("ì—­ìˆœ: ");
 
 	for (int i = size - 1; i >= 0; i--) {
 

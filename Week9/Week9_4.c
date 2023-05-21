@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -12,9 +12,9 @@ int main() {
 
 	get(actualNumber, &i_part, &f_part);
 
-	printf("Àü´Ş¹ŞÀº ½Ç¼ö=%lf\n", actualNumber);
-	printf("Á¤¼öºÎ=%d\n", i_part);
-	printf("¼Ò¼öºÎ=%lf", f_part);
+	printf("ì „ë‹¬ë°›ì€ ì‹¤ìˆ˜=%lf\n", actualNumber);
+	printf("ì •ìˆ˜ë¶€=%d\n", i_part);
+	printf("ì†Œìˆ˜ë¶€=%lf", f_part);
 
 	return 0;
 

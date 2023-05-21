@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+﻿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 #include <math.h>
@@ -12,8 +12,8 @@ int main() {
 
 	computeQuadratic(a, b, c, &resultP, &resultM);
 
-	printf("ù��° �Ǳ�: %lf\n", resultM);
-	printf("�ι�° �Ǳ�: %lf", resultP);
+	printf("첫번째 실근: %lf\n", resultM);
+	printf("두번째 실근: %lf", resultP);
 
 	return 0;
 
