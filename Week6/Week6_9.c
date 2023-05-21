@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -7,7 +7,7 @@ int main() {
 	double Cdeg;
 
 	printf("======================\n");
-	printf("È­¾¾¿Âµµ      ¼·¾¾¿Âµµ\n");
+	printf("í™”ì”¨ì˜¨ë„      ì„­ì”¨ì˜¨ë„\n");
 	printf("======================\n");
 
 	for (int i = 0; i <= 100; i = i + 10) {

@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -6,12 +6,12 @@ int main() {
 
 	int loopNum;
 
-	printf("¸î ¹øÀÌ³ª ¹İº¹ÇÒ±î¿ä?: ");
+	printf("ëª‡ ë²ˆì´ë‚˜ ë°˜ë³µí• ê¹Œìš”?: ");
 	scanf("%d", &loopNum);
 
 	for (int i = 0; i < loopNum; i++) {
 
-		printf("¾È³çÇÏ¼¼¿ä?\n");
+		printf("ì•ˆë…•í•˜ì„¸ìš”?\n");
 
 	}
 

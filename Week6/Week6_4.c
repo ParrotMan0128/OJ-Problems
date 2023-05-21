@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -9,7 +9,7 @@ int main() {
 
 	while (1) {
 
-		printf("Á¤¼ö¸¦ ÀÔ·ÂÇÏ½Ã¿À: ");
+		printf("ì •ìˆ˜ë¥¼ ìž…ë ¥í•˜ì‹œì˜¤: ");
 		scanf("%d", &input);
 
 		if (input == 0) {
@@ -22,7 +22,7 @@ int main() {
 
 	}
 
-	printf("ÇÕ°è=%d", sum);
+	printf("í•©ê³„=%d", sum);
 
 	return 0;
 
