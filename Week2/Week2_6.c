@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -8,12 +8,12 @@ int main() {
 	int angle_B = 0;
 	int angle_C = 0;
 
-	printf("»ï°¢ÇüÀÇ ³»°¢ 2°³: ");
+	printf("ì‚¼ê°í˜•ì˜ ë‚´ê° 2ê°œ: ");
 	scanf("%d %d", &angle_A, &angle_B);
 
 	angle_C = 180 - angle_A - angle_B;
 
-	printf("¼¼¹øÂ° °¢Àº %d ÀÔ´Ï´Ù.", angle_C);
+	printf("ì„¸ë²ˆì§¸ ê°ì€ %d ì…ë‹ˆë‹¤.", angle_C);
 
 	return 0;
 
