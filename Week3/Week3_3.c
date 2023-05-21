@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -10,14 +10,14 @@ int main() {
 	double s = 0.0;
 	double v = 0.0;
 
-	printf("¹İÁö¸§À» ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("ë°˜ì§€ë¦„ì„ ì…ë ¥í•˜ì‹œì˜¤: ");
 	scanf("%lf", &radius);
 
 	s = 4.0 * PI * (radius * radius);
 	v = (4.0 / 3.0) * PI * (radius * radius * radius);
 
-	printf("±¸ÀÇ Ç¥¸éÀû: %lf\n", s);
-	printf("±¸ÀÇ ºÎÇÇ: %lf", v);
+	printf("êµ¬ì˜ í‘œë©´ì : %lf\n", s);
+	printf("êµ¬ì˜ ë¶€í”¼: %lf", v);
 
 	return 0;
 

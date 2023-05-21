@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -13,22 +13,22 @@ int main() {
 	int minute = 0;
 	int second = 0;
 
-	printf("°Å¸®¸¦ ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("ê±°ë¦¬ë¥¼ ì…ë ¥í•˜ì‹œì˜¤: ");
 	scanf("%d", &distance);
 
-	printf("½Ã°£À» ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("ì‹œê°„ì„ ì…ë ¥í•˜ì‹œì˜¤: ");
 	scanf("%d", &hour);
 
-	printf("ºĞÀ» ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("ë¶„ì„ ì…ë ¥í•˜ì‹œì˜¤: ");
 	scanf("%d", &minute);
 
-	printf("ÃÊ¸¦ ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("ì´ˆë¥¼ ì…ë ¥í•˜ì‹œì˜¤: ");
 	scanf("%d", &second);
 
 	float time = hour + minute / MINUTE_TO_HOUR + second / SECOND_TO_HOUR;
 	float speed = distance / time / METER_TO_KILOMETER;
 
-	printf("¼Óµµ: %lf", speed);
+	printf("ì†ë„: %lf", speed);
 
 	return 0;
 
