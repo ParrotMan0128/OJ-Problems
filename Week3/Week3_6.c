@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -8,10 +8,10 @@ int main() {
 	char input_B = 'a';
 	char input_C = 'a';
 
-	printf("¹®ÀÚ¸¦ ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("ë¬¸ìë¥¼ ì…ë ¥í•˜ì‹œì˜¤: ");
 	scanf("%c %c %c", &input_A, &input_B, &input_C);
 
-	printf("¹®ÀÚ: %c %c %c", input_C, input_B, input_A);
+	printf("ë¬¸ì: %c %c %c", input_C, input_B, input_A);
 
 	return 0;
 

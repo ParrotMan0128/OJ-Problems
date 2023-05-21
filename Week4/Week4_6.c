@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -7,7 +7,7 @@ int main() {
 	int input;
 	int hun, ten, one;
 
-	printf("Á¤¼ö¸¦ ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì‹œì˜¤: ");
 	scanf("%d", &input);
 
 	hun = input / 100;
@@ -18,9 +18,9 @@ int main() {
 
 	one = input;
 
-	printf("¹éÀÇ ÀÚ¸® ¼ö: %d\n", hun);
-	printf("½ÊÀÇ ÀÚ¸® ¼ö: %d\n", ten);
-	printf("ÀÏÀÇ ÀÚ¸® ¼ö: %d\n", one);
+	printf("ë°±ì˜ ìë¦¬ ìˆ˜: %d\n", hun);
+	printf("ì‹­ì˜ ìë¦¬ ìˆ˜: %d\n", ten);
+	printf("ì¼ì˜ ìë¦¬ ìˆ˜: %d\n", one);
 
 	return 0;
 

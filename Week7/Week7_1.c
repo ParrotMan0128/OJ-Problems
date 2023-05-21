@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -8,7 +8,7 @@ int main(void) {
 
 	for (int i = 1; i <= 12; i++) {
 
-		printf("%d¿ùÀº %dÀÏ±îÁö ÀÖ½À´Ï´Ù.\n", i, days[i - 1]);
+		printf("%dì›”ì€ %dì¼ê¹Œì§€ ìžˆìŠµë‹ˆë‹¤.\n", i, days[i - 1]);
 
 	}
 

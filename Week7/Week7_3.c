@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -9,7 +9,7 @@ int main(void) {
 	int sum = 0;
 	int* numbers;
 
-	printf("ÀÔ·ÂÇÒ Á¤¼öÀÇ °³¼ö:");
+	printf("ì…ë ¥í•  ì •ìˆ˜ì˜ ê°œìˆ˜:");
 	scanf("%d", &n);
 
 	numbers = (int*)malloc(sizeof(int) * n);
@@ -18,14 +18,14 @@ int main(void) {
 
 		for (int i = 0; i < n; i++) {
 
-			printf("%d¹øÂ° ¿ä¼Ò¸¦ ÀÔ·ÂÇÏ½Ã¿À:", i);
+			printf("%dë²ˆì§¸ ìš”ì†Œë¥¼ ì…ë ¥í•˜ì‹œì˜¤:", i);
 			scanf("%d", &numbers[i]);
 
 			sum += numbers[i];
 
 		}
 
-		printf("ÇÕ=%d", sum);
+		printf("í•©=%d", sum);
 
 	}
 

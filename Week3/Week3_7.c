@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -22,14 +22,14 @@ int main() {
 	int size_double = sizeof g;
 	int size_longdouble = sizeof h;
 
-	printf("charÇüÀÇ Å©±â´Â %dbyteÀÔ´Ï´Ù.\n", size_char);
-	printf("shortÇüÀÇ Å©±â´Â %dbyteÀÔ´Ï´Ù.\n", size_short);
-	printf("intÇüÀÇ Å©±â´Â %dbyteÀÔ´Ï´Ù.\n", size_int);
-	printf("longÇüÀÇ Å©±â´Â %dbyteÀÔ´Ï´Ù.\n", size_long);
-	printf("long longÇüÀÇ Å©±â´Â %dbyteÀÔ´Ï´Ù.\n", size_longlong);
-	printf("floatÇüÀÇ Å©±â´Â %dbyteÀÔ´Ï´Ù.\n", size_float);
-	printf("doubleÇüÀÇ Å©±â´Â %dbyteÀÔ´Ï´Ù.\n", size_double);
-	printf("long doubleÇüÀÇ Å©±â´Â %dbyteÀÔ´Ï´Ù.", size_longdouble);
+	printf("charí˜•ì˜ í¬ê¸°ëŠ” %dbyteì…ë‹ˆë‹¤.\n", size_char);
+	printf("shortí˜•ì˜ í¬ê¸°ëŠ” %dbyteì…ë‹ˆë‹¤.\n", size_short);
+	printf("intí˜•ì˜ í¬ê¸°ëŠ” %dbyteì…ë‹ˆë‹¤.\n", size_int);
+	printf("longí˜•ì˜ í¬ê¸°ëŠ” %dbyteì…ë‹ˆë‹¤.\n", size_long);
+	printf("long longí˜•ì˜ í¬ê¸°ëŠ” %dbyteì…ë‹ˆë‹¤.\n", size_longlong);
+	printf("floatí˜•ì˜ í¬ê¸°ëŠ” %dbyteì…ë‹ˆë‹¤.\n", size_float);
+	printf("doubleí˜•ì˜ í¬ê¸°ëŠ” %dbyteì…ë‹ˆë‹¤.\n", size_double);
+	printf("long doubleí˜•ì˜ í¬ê¸°ëŠ” %dbyteì…ë‹ˆë‹¤.", size_longdouble);
 
 	return 0;
 

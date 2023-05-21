@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+О╩©#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -8,47 +8,47 @@ int main(void) {
 	int money;
 	int price;
 
-	printf("╪у╢тю╦╥н╨нем ╧чю╨ ╠щ╬вю╨ ╬С╦╤ют╢о╠Н? ");
+	printf("Л├░К▀≤Л°╪К║°К╤─М└╟ К╟⌡Л²─ Й╦┬Л∙║Л²─ Л√╪К╖┬Л·┘К▀┬Й╧▄? ");
 	scanf("%d", &money);
 
-	printf("╧╟╟г╟╙ю╨ ╬С╦╤ют╢о╠Н? ");
+	printf("К╛╪Й╠╢Й╟▓Л²─ Л√╪К╖┬Л·┘К▀┬Й╧▄? ");
 	scanf("%d", &price);
 
 	if (money < price) {
 
-		printf("╧╟╟г╟╙юл %d©Ь ╨на╥гу╢о╢ы.", price - money);
+		printf("К╛╪Й╠╢Й╟▓Л²╢ %dЛ⌡░ К╤─Л║╠М∙╘К▀┬К▀╓.", price - money);
 
 	}
 	else {
 
 		money -= price;
 
-		printf("╟е╫╨╦╖╣╥ : %d\n", money);
+		printf("Й╠╟Л┼╓К╕└К▐┬ : %d\n", money);
 
-		int ftth = money / 50000; //©ю╦╦©Ь
+		int ftth = money / 50000; //Л≤╓К╖▄Л⌡░
 		money = money % 50000;
-		int tth = money / 10000; //╦╦©Ь
+		int tth = money / 10000; //К╖▄Л⌡░
 		money = money % 10000;
-		int fth = money / 5000; //©юц╣©Ь
+		int fth = money / 5000; //Л≤╓Л╡°Л⌡░
 		money = money % 5000;
-		int th = money / 1000; //ц╣©Ь
+		int th = money / 1000; //Л╡°Л⌡░
 		money = money % 1000;
-		int fh = money / 500; //©ю╧И©Ь
+		int fh = money / 500; //Л≤╓К╟╠Л⌡░
 		money = money % 500;
-		int h = money / 100; //╧И©Ь
+		int h = money / 100; //К╟╠Л⌡░
 		money = money % 100;
-		int ft = money / 50; //©ю╫й©Ь
+		int ft = money / 50; //Л≤╓Л▀╜Л⌡░
 		money = money % 50;
-		int t = money / 10; //╫й©Ь
+		int t = money / 10; //Л▀╜Л⌡░
 
-		printf("©ю╦╦©Ь : %d\n", ftth);
-		printf("╦╦©Ь : %d\n", tth);
-		printf("©юц╣©Ь : %d\n", fth);
-		printf("ц╣©Ь : %d\n", th);
-		printf("©ю╧И©Ь : %d\n", fh);
-		printf("╧И©Ь : %d\n", h);
-		printf("©ю╫й©Ь : %d\n", ft);
-		printf("╫й©Ь : %d\n", t);
+		printf("Л≤╓К╖▄Л⌡░ : %d\n", ftth);
+		printf("К╖▄Л⌡░ : %d\n", tth);
+		printf("Л≤╓Л╡°Л⌡░ : %d\n", fth);
+		printf("Л╡°Л⌡░ : %d\n", th);
+		printf("Л≤╓К╟╠Л⌡░ : %d\n", fh);
+		printf("К╟╠Л⌡░ : %d\n", h);
+		printf("Л≤╓Л▀╜Л⌡░ : %d\n", ft);
+		printf("Л▀╜Л⌡░ : %d\n", t);
 
 	}
 

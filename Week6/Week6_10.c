@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -7,12 +7,12 @@ int main() {
 	int n;
 	int sum = 0;
 
-	printf("nÀÇ °ªÀ» ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("nì˜ ê°’ì„ ì…ë ¥í•˜ì‹œì˜¤: ");
 	scanf("%d", &n);
 
 	sum = (n * (n + 1) * (2 * n + 1)) / 6;
 
-	printf("°è»ê°ªÀº %dÀÔ´Ï´Ù.", sum);
+	printf("ê³„ì‚°ê°’ì€ %dì…ë‹ˆë‹¤.", sum);
 
 	return 0;
 

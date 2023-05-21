@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -7,12 +7,12 @@ int main() {
 	double x, y;
 	int result;
 
-	printf("2°³ÀÇ ½Ç¼ö¸¦ ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("2ê°œì˜ ì‹¤ìˆ˜ë¥¼ ì…ë ¥í•˜ì‹œì˜¤: ");
 	scanf("%lf %lf", &x, &y);
 
 	result = (int)x + (int)y;
 
-	printf("ÇÕÀÇ Á¤¼öºÎ = %d", result);
+	printf("í•©ì˜ ì •ìˆ˜ë¶€ = %d", result);
 
 	return 0;
 

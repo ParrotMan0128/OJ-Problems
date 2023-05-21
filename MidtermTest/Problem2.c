@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 #include <math.h>
@@ -13,12 +13,12 @@ int main(void) {
 	double s = pow(input, 2);
 	double v = pow(input, 3);
 
-	printf("Á¦°ö: %le\n", s);
-	printf("¼¼Á¦°ö: % le\n", v);
+	printf("ì œê³±: %le\n", s);
+	printf("ì„¸ì œê³±: % le\n", v);
 	printf("\n");
-	printf("Á¦°ö: %12.3lf\n", s);
-	printf("¼¼Á¦°ö: %-12.3lf\n", v);
-	printf("Á¦°ö+¼¼Á¦°ö: %010d", (int)s + (int)v);
+	printf("ì œê³±: %12.3lf\n", s);
+	printf("ì„¸ì œê³±: %-12.3lf\n", v);
+	printf("ì œê³±+ì„¸ì œê³±: %010d", (int)s + (int)v);
 
 	return 0;
 

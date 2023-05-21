@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+О╩©#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -6,18 +6,18 @@ int main() {
 
 	int input;
 
-	printf("а╓╪Ж╦╕ ют╥бго╫ц©ю: ");
+	printf("Л═∙Л┬≤К╔╪ Л·┘К═╔М∙≤Л▀°Л≤╓: ");
 
 	scanf("%d", &input);
 
 	if (input % 2 == 0) {
 
-		printf("%d ю╨ б╕╪Ж ют╢о╢ы.\n", input);
+		printf("%d Л²─ Л╖²Л┬≤ Л·┘К▀┬К▀╓.\n", input);
 
 	}
 	else {
 
-		printf("%d ю╨ х╕╪Ж ют╢о╢ы.\n", input);
+		printf("%d Л²─ М≥─Л┬≤ Л·┘К▀┬К▀╓.\n", input);
 
 	}
 

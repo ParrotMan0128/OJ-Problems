@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -7,12 +7,12 @@ int main() {
 	double x;
 	double result;
 
-	printf("xÀÇ °ªÀ» ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("xì˜ ê°’ì„ ì…ë ¥í•˜ì‹œì˜¤: ");
 	scanf("%lf", &x);
 
 	result = (x * x * x - 20) / (x - 7);
 
-	printf("¼ö½ÄÀÇ °ªÀº %lfÀÔ´Ï´Ù.", result);
+	printf("ìˆ˜ì‹ì˜ ê°’ì€ %lfì…ë‹ˆë‹¤.", result);
 
 	return 0;
 

@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -7,7 +7,7 @@ int main() {
 	double income;
 	double tax;
 
-	printf("°ú¼¼ Ç¥ÁØÀ» ÀÔ·ÂÇÏ½Ã¿À(¸¸¿ø): ");
+	printf("ê³¼ì„¸ í‘œì¤€ì„ ì…ë ¥í•˜ì‹œì˜¤(ë§Œì›): ");
 	scanf("%lf", &income);
 
 	if (income <= 1000) {
@@ -31,7 +31,7 @@ int main() {
 
 	}
 
-	printf("¼Òµæ¼¼´Â %d¸¸¿øÀÔ´Ï´Ù", (int)tax);
+	printf("ì†Œë“ì„¸ëŠ” %dë§Œì›ì…ë‹ˆë‹¤", (int)tax);
 
 	return 0;
 

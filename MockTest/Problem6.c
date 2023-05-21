@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -7,18 +7,18 @@ int main() {
 	int starCount;
 	int changeLine;
 
-	printf("¸î °³ÀÇ *¸¦ Ç¥½ÃÇÒ±î¿ä: ");
+	printf("ëª‡ ê°œì˜ *ë¥¼ í‘œì‹œí• ê¹Œìš”: ");
 	scanf("%d", &starCount);
 
-	printf("¸î °³¸¶´Ù ÁÙ ¹Ù²ŞÇÒ±î¿ä: ");
+	printf("ëª‡ ê°œë§ˆë‹¤ ì¤„ ë°”ê¿ˆí• ê¹Œìš”: ");
 	scanf("%d", &changeLine);
 
-	// starCount°³ÀÇ º° Ãâ·Â
+	// starCountê°œì˜ ë³„ ì¶œë ¥
 	for (int i = 1; i <= starCount; i++) {
 
 		printf("*");
 
-		// º°ÀÌ changeLine°³¸¸Å­ Ãâ·Â µÉ ¶§¸¶´Ù ÁÙ¹Ù²Ş
+		// ë³„ì´ changeLineê°œë§Œí¼ ì¶œë ¥ ë  ë•Œë§ˆë‹¤ ì¤„ë°”ê¿ˆ
 		if (i % changeLine == 0) {
 
 			printf("\n");

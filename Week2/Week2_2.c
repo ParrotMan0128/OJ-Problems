@@ -1,12 +1,12 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
 int main() {
 
-	printf("ÀÌ¸§: È«±æµ¿\n");
-	printf("ÁÖ¼Ò : ¼­¿ï½Ã Á¾·Î±¸\n");
-	printf("ÀüÈ­¹øÈ£ : 111 - 2222");
+	printf("ì´ë¦„: í™ê¸¸ë™\n");
+	printf("ì£¼ì†Œ : ì„œìš¸ì‹œ ì¢…ë¡œêµ¬\n");
+	printf("ì „í™”ë²ˆí˜¸ : 111 - 2222");
 
 	return 0;
 

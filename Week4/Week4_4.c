@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -8,14 +8,14 @@ int main() {
 	double total;
 	double avg;
 
-	printf("3°ú¸ñÀÇ Á¡¼ö¸¦ ÀÔ·ÂÇÑ´Ù: ");
+	printf("3ê³¼ëª©ì˜ ì ìˆ˜ë¥¼ ì…ë ¥í•œë‹¤: ");
 	scanf("%lf %lf %lf", &korScore, &engScore, &mathScore);
 
 	total = korScore + engScore + mathScore;
 	avg = (korScore + engScore + mathScore) / 3.0;
 
-	printf("ÃÑÁ¡ = %.2lf\n", total);
-	printf("Æò±Õ = %.2lf\n", avg);
+	printf("ì´ì  = %.2lf\n", total);
+	printf("í‰ê·  = %.2lf\n", avg);
 
 	return 0;
 

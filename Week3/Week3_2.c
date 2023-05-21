@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -6,10 +6,10 @@ int main() {
 
 	double input = 0.0;
 
-	printf("Áö¼ö¸¦ ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("ì§€ìˆ˜ë¥¼ ì…ë ¥í•˜ì‹œì˜¤: ");
 	scanf("%le", &input);
 
-	printf("¼Ò¼öÁ¡ Ç¥½Ã Çü½ÄÀ¸·Î´Â %lfÀÔ´Ï´Ù.", input);
+	printf("ì†Œìˆ˜ì  í‘œì‹œ í˜•ì‹ìœ¼ë¡œëŠ” %lfì…ë‹ˆë‹¤.", input);
 
 	return 0;
 

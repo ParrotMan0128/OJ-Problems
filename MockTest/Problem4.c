@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -6,27 +6,27 @@ int main() {
 
 	char drink;
 
-	printf("¹®ÀÚ: ");
+	printf("ë¬¸ì: ");
 	scanf("%c", &drink);
 
 	if (drink == 'f' || drink == 'F') {
 
-		printf("È¯Å¸");
+		printf("í™˜íƒ€");
 
 	}
 	else if (drink == 'c' || drink == 'C') {
 
-		printf("Äİ¶ó");
+		printf("ì½œë¼");
 
 	}
 	else if (drink == 'p' || drink == 'P') {
 
-		printf("Æ÷Ä«¸®½º¿şÆ®");
+		printf("í¬ì¹´ë¦¬ìŠ¤ì›¨íŠ¸");
 
 	}
 	else {
 
-		printf("ÆÇ¸ÅÇÏÁö ¾Ê´Â À½·á¼ö");
+		printf("íŒë§¤í•˜ì§€ ì•ŠëŠ” ìŒë£Œìˆ˜");
 
 	}
 

@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -6,22 +6,22 @@ int main() {
 
 	char input;
 
-	printf("½ÅÈ£µîÀÇ »ö±ò ÀÔ·Â (R, G, Y): ");
+	printf("ì‹ í˜¸ë“±ì˜ ìƒ‰ê¹” ì…ë ¥ (R, G, Y): ");
 	scanf("%c", &input);
 
 	if (input == 'r') {
 
-		printf("Á¤Áö!\n");
+		printf("ì •ì§€!\n");
 
 	}
 	else if (input == 'g') {
 
-		printf("ÁøÇà!\n");
+		printf("ì§„í–‰!\n");
 
 	}
 	else if (input == 'y') {
 
-		printf("ÁÖÀÇ!\n");
+		printf("ì£¼ì˜!\n");
 
 	}
 

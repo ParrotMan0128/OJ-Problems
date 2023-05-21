@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+О╩©#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -8,12 +8,12 @@ int main(void) {
 
 	//code here
 	double x, y;
-	printf("╫г╪Ж╦╕ ют╥бго╫ц©ю: ");
+	printf("Л▀╓Л┬≤К╔╪ Л·┘К═╔М∙≤Л▀°Л≤╓: ");
 	scanf("%lf", &x);
-	printf("╫г╪Ж╦╕ ют╥бго╫ц©ю: ");
+	printf("Л▀╓Л┬≤К╔╪ Л·┘К═╔М∙≤Л▀°Л≤╓: ");
 	scanf("%lf", &y);
 
-	printf("╢У е╚╪Ж╢б %lfют╢о╢ы.", getBigger(x, y));
+	printf("К█■ М│╟Л┬≤К┼■ %lfЛ·┘К▀┬К▀╓.", getBigger(x, y));
 
 	return 0;
 

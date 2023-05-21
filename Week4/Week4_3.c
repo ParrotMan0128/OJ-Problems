@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -8,15 +8,15 @@ int main() {
 	double discountRate;
 	double finalPrice;
 
-	printf("»óÇ° °¡°İÀ» ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("ìƒí’ˆ ê°€ê²©ì„ ì…ë ¥í•˜ì‹œì˜¤: ");
 	scanf("%d", &price);
 
-	printf("ÇÒÀÎ·üÀ» ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("í• ì¸ë¥ ì„ ì…ë ¥í•˜ì‹œì˜¤: ");
 	scanf("%lf", &discountRate);
 
 	finalPrice = price * ((100 - discountRate) * 0.01);
 
-	printf("ÇÒÀÎµÈ °¡°İÀº %.2lfÀÔ´Ï´Ù.", finalPrice);
+	printf("í• ì¸ëœ ê°€ê²©ì€ %.2lfì…ë‹ˆë‹¤.", finalPrice);
 
 	return 0;
 

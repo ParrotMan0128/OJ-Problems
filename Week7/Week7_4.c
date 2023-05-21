@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -12,7 +12,7 @@ int main(void) {
 
 	for (int i = 0; i < SIZE; i++) {
 
-		printf("Á¤¼ö¸¦ ÀÔ·ÂÇÏ½Ã¿À: ");
+		printf("ì •ìˆ˜ë¥¼ ìž…ë ¥í•˜ì‹œì˜¤: ");
 		scanf("%d", &numbers[i]);
 
 	}
@@ -35,7 +35,7 @@ int main(void) {
 
 	}
 
-	printf("ÃÖ´ë°ª=%d ÃÖ¼Ò°ª=%d", max, min);
+	printf("ìµœëŒ€ê°’=%d ìµœì†Œê°’=%d", max, min);
 
 	return 0;
 

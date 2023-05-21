@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 #include <time.h>
@@ -22,17 +22,17 @@ int main() {
 
 	if (userDiceSum > cpuDiceSum) {
 
-		printf("»ç¿ëÀÚ ½Â¸®");
+		printf("ì‚¬ìš©ì ìŠ¹ë¦¬");
 
 	}
 	else if (userDiceSum < cpuDiceSum) {
 
-		printf("ÄÄÇ»ÅÍ ½Â¸®");
+		printf("ì»´í“¨í„° ìŠ¹ë¦¬");
 
 	}
 	else {
 
-		printf("¹«½ÂºÎ");
+		printf("ë¬´ìŠ¹ë¶€");
 
 	}
 

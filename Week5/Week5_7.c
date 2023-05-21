@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -6,17 +6,17 @@ int main() {
 
 	int sides[3];
 
-	printf("»ï°¢ÇüÀÇ ¼¼º¯À» ÀÔ·ÂÇÏ½Ã¿ä: ");
+	printf("ì‚¼ê°í˜•ì˜ ì„¸ë³€ì„ ì…ë ¥í•˜ì‹œìš”: ");
 	scanf("%d %d %d", &sides[0], &sides[1], &sides[2]);
 
 	if (sides[0] == sides[1] && sides[0] == sides[2]) {
 
-		printf("Á¤»ï°¢Çü\n");
+		printf("ì •ì‚¼ê°í˜•\n");
 
 	}
 	else if (sides[0] == sides[1] || sides[1] == sides[2] || sides[2] == sides[0]) {
 
-		printf("ÀÌµîº¯ »ï°¢Çü\n");
+		printf("ì´ë“±ë³€ ì‚¼ê°í˜•\n");
 
 	}
 

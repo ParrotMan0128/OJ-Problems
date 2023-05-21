@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -8,18 +8,18 @@ int main() {
 	int input_b = 0;
 	int input_c = 0;
 
-	printf("Á¤¼ö¸¦ ÀÔ·ÂÇÏ½Ã¿À : ");
+	printf("ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì‹œì˜¤ : ");
 	scanf("%d", &input_a);
 
-	printf("Á¤¼ö¸¦ ÀÔ·ÂÇÏ½Ã¿À : ");
+	printf("ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì‹œì˜¤ : ");
 	scanf("%d", &input_b);
 
-	printf("Á¤¼ö¸¦ ÀÔ·ÂÇÏ½Ã¿À : ");
+	printf("ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì‹œì˜¤ : ");
 	scanf("%d", &input_c);
 
 	float avg = (input_a + input_b + input_c) / 3.0;
 
-	printf("Æò±ÕÀº %fÀÔ´Ï´Ù.", avg);
+	printf("í‰ê· ì€ %fì…ë‹ˆë‹¤.", avg);
 
 	return 0;
 

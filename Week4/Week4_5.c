@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -8,16 +8,16 @@ int main() {
 	int quotient;
 	int remainder;
 
-	printf("Ã¹ ¹øÂ° Á¤¼ö¸¦ ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("ì²« ë²ˆì§¸ ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì‹œì˜¤: ");
 	scanf("%d", &x);
 
-	printf("µÎ ¹øÂ° Á¤¼ö¸¦ ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("ë‘ ë²ˆì§¸ ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì‹œì˜¤: ");
 	scanf("%d", &y);
 
 	quotient = x / y;
 	remainder = x % y;
 
-	printf("¸òÀº %dÀÌ°í ³ª¸ÓÁö´Â %dÀÔ´Ï´Ù.", quotient, remainder);
+	printf("ëª«ì€ %dì´ê³  ë‚˜ë¨¸ì§€ëŠ” %dì…ë‹ˆë‹¤.", quotient, remainder);
 
 	return 0;
 

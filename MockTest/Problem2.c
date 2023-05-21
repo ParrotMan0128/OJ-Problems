@@ -1,24 +1,24 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
 int main() {
 
 	int input;
-	printf("Á¤¼ö: ");
+	printf("ì •ìˆ˜: ");
 	scanf("%d", &input);
 
-	int a = input / 10000; // ¸¸ÀÇ ÀÚ¸® ÃßÃâ
+	int a = input / 10000; // ë§Œì˜ ìë¦¬ ì¶”ì¶œ
 	input = input % 10000;
-	int b = input / 1000; // ÃµÀÇ ÀÚ¸® ÃßÃâ 
+	int b = input / 1000; // ì²œì˜ ìë¦¬ ì¶”ì¶œ 
 	input = input % 1000;
-	int c = input / 100; // ¹éÀÇ ÀÚ¸® ÃßÃâ
+	int c = input / 100; // ë°±ì˜ ìë¦¬ ì¶”ì¶œ
 	input = input % 100;
-	int d = input / 10; // ½ÊÀÇ ÀÚ¸® ÃßÃâ
+	int d = input / 10; // ì‹­ì˜ ìë¦¬ ì¶”ì¶œ
 	input = input % 10;
-	int e = input; // ÀÏÀÇ ÀÚ¸® ÃßÃâ
+	int e = input; // ì¼ì˜ ìë¦¬ ì¶”ì¶œ
 
-	printf("Á¤¼ö(¿ª¼ø): %d %d %d %d %d", e, d, c, b, a);
+	printf("ì •ìˆ˜(ì—­ìˆœ): %d %d %d %d %d", e, d, c, b, a);
 
 	return 0;
 

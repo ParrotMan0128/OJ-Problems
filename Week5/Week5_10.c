@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -6,38 +6,38 @@ int main() {
 
 	char grade;
 
-	printf("ÇĞÁ¡À» ÀÔ·ÂÇÏ½Ã¿À:");
+	printf("í•™ì ì„ ì…ë ¥í•˜ì‹œì˜¤:");
 	scanf("%c", &grade);
 
 	switch (grade) {
 
 	case 'A':
 
-		printf("¾ÆÁÖ ÀßÇß¾î¿ä!\n");
+		printf("ì•„ì£¼ ì˜í–ˆì–´ìš”!\n");
 		break;
 
 
 	case 'B':
 
-		printf("ÁÁ½À´Ï´Ù.\n");
+		printf("ì¢‹ìŠµë‹ˆë‹¤.\n");
 		break;
 
 
 	case 'C':
 
-		printf("¸¸Á·½º·´½À´Ï´Ù.\n");
+		printf("ë§Œì¡±ìŠ¤ëŸ½ìŠµë‹ˆë‹¤.\n");
 		break;
 
 
 	case 'D':
 
-		printf("´õ ³ë·ÂÇØº¸¼¼¿ä.\n");
+		printf("ë” ë…¸ë ¥í•´ë³´ì„¸ìš”.\n");
 		break;
 
 
 	case 'F':
 
-		printf("¾ÈÅ¸±õ½À´Ï´Ù.\n");
+		printf("ì•ˆíƒ€ê¹ìŠµë‹ˆë‹¤.\n");
 		break;
 
 	default:
