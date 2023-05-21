@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -7,16 +7,16 @@ int main() {
 	int num, n;
 	int newNum;
 
-	printf("¼ıÀÚ¸¦ ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("ìˆ«ìë¥¼ ì…ë ¥í•˜ì‹œì˜¤: ");
 	scanf("%d", &num);
 
-	printf("nÀ» ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("nì„ ì…ë ¥í•˜ì‹œì˜¤: ");
 	scanf("%d", &n);
 
 	n = 0x01 << n;
 	newNum = num | n;
 
-	printf("»õ·Î¿î °ª= %d", newNum);
+	printf("ìƒˆë¡œìš´ ê°’= %d", newNum);
 
 	return 0;
 

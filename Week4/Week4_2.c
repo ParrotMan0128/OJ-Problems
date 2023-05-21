@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -7,7 +7,7 @@ int main() {
 	int x, y, z;
 	int result;
 
-	printf("Á¤¼ö¸¦ 3°³ ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("ì •ìˆ˜ë¥¼ 3ê°œ ìž…ë ¥í•˜ì‹œì˜¤: ");
 
 	scanf("%d %d %d", &x, &y, &z);
 

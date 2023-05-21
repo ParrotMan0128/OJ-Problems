@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -8,11 +8,11 @@ int main() {
 	double height;
 	double BMI;
 
-	printf("Ã¼ÁßÀ» ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("ì²´ì¤‘ì„ ì…ë ¥í•˜ì‹œì˜¤: ");
 
 	scanf("%lf", &weight);
 
-	printf("½ÅÀåÀ» ÀÔ·ÂÇÏ½Ã¿À(´ÜÀ§: ¹ÌÅÍ): ");
+	printf("ì‹ ì¥ì„ ì…ë ¥í•˜ì‹œì˜¤(ë‹¨ìœ„: ë¯¸í„°): ");
 
 	scanf("%lf", &height);
 
