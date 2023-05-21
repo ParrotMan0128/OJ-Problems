@@ -119,7 +119,3 @@
 ```
 > 💯 Aim for the Top <
 ```
----
-```
-> 💯 Aim for the Top <
-```
