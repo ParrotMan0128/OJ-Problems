@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 
@@ -6,11 +6,11 @@ int main() {
 
 	double height;
 
-	printf("Å°: ");
+	printf("í‚¤: ");
 	scanf("%lf", &height);
 
-	// ¼Ò¼ö Ã¹ Â° ÀÚ¸®±îÁö Ãâ·Â
-	printf("Ç¥ÁØÃ¼ÁßÀº %.1lf ÀÔ´Ï´Ù.", (height - 100) * 0.9);
+	// ì†Œìˆ˜ ì²« ì§¸ ìë¦¬ê¹Œì§€ ì¶œë ¥
+	printf("í‘œì¤€ì²´ì¤‘ì€ %.1lf ì…ë‹ˆë‹¤.", (height - 100) * 0.9);
 
 	return 0;
 
