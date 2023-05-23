@@ -116,7 +116,7 @@
 	[<04>](https://github.com/ParrotMan0128/OJ-Problems/blob/30c6348ffc61788aa86ae6d94c9a2e0b407949c7/Week10/Week10_4.c)
 	[<05>](https://github.com/ParrotMan0128/OJ-Problems/blob/30c6348ffc61788aa86ae6d94c9a2e0b407949c7/Week10/Week10_5.c)
 	[<06>](https://github.com/ParrotMan0128/OJ-Problems/blob/30c6348ffc61788aa86ae6d94c9a2e0b407949c7/Week10/Week10_6.c)
-	[<07>](https://github.com/ParrotMan0128/OJ-Problems/blob/30c6348ffc61788aa86ae6d94c9a2e0b407949c7/Week10/Week10_7.c)
+	[<07>](https://github.com/ParrotMan0128/OJ-Problems/blob/52aa19881bdd3d0c3b7b7e57388151fa3ab31832/Week10/Week10_7.c)
 	[<08>](https://github.com/ParrotMan0128/OJ-Problems/blob/30c6348ffc61788aa86ae6d94c9a2e0b407949c7/Week10/Week10_8.c)
 	<09>
 	[<10>](https://github.com/ParrotMan0128/OJ-Problems/blob/30c6348ffc61788aa86ae6d94c9a2e0b407949c7/Week10/Week10_10.c)
