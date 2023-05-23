@@ -109,7 +109,7 @@
 	[<05>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week9/Week9_5.c)
 	[<06>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week9/Week9_6.c) 
 #
-+ Week 10: 문자열
++ Week 10: 문자열 *(10 Problems/0 Solved)*
 	+ *추가예정*  
 #
 + Week 11: 구조체, 공용체, 열거형
