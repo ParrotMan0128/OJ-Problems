@@ -110,17 +110,17 @@
 	[<06>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week9/Week9_6.c) 
 #
 + Week 10: 문자열 *(11 Problems/10 Solved)*
-	+ [<01>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week10/Week10_1.c)
-	[<02>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week10/Week10_2.c)
-	[<03>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week10/Week10_3.c)
-	[<04>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week10/Week10_4.c)
-	[<05>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week10/Week10_5.c)
-	[<06>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week10/Week10_6.c)
-	[<07>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week10/Week10_7.c)
-	[<08>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week10/Week10_8.c)
+	+ [<01>](https://github.com/ParrotMan0128/OJ-Problems/blob/30c6348ffc61788aa86ae6d94c9a2e0b407949c7/Week10/Week10_1.c)
+	[<02>](https://github.com/ParrotMan0128/OJ-Problems/blob/30c6348ffc61788aa86ae6d94c9a2e0b407949c7/Week10/Week10_2.c)
+	[<03>](https://github.com/ParrotMan0128/OJ-Problems/blob/30c6348ffc61788aa86ae6d94c9a2e0b407949c7/Week10/Week10_3.c)
+	[<04>](https://github.com/ParrotMan0128/OJ-Problems/blob/30c6348ffc61788aa86ae6d94c9a2e0b407949c7/Week10/Week10_4.c)
+	[<05>](https://github.com/ParrotMan0128/OJ-Problems/blob/30c6348ffc61788aa86ae6d94c9a2e0b407949c7/Week10/Week10_5.c)
+	[<06>](https://github.com/ParrotMan0128/OJ-Problems/blob/30c6348ffc61788aa86ae6d94c9a2e0b407949c7/Week10/Week10_6.c)
+	[<07>](https://github.com/ParrotMan0128/OJ-Problems/blob/30c6348ffc61788aa86ae6d94c9a2e0b407949c7/Week10/Week10_7.c)
+	[<08>](https://github.com/ParrotMan0128/OJ-Problems/blob/30c6348ffc61788aa86ae6d94c9a2e0b407949c7/Week10/Week10_8.c)
 	<09>
-	[<10>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week10/Week10_10.c)
-	[<11>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week10/Week10_11.c)
+	[<10>](https://github.com/ParrotMan0128/OJ-Problems/blob/30c6348ffc61788aa86ae6d94c9a2e0b407949c7/Week10/Week10_10.c)
+	[<11>](https://github.com/ParrotMan0128/OJ-Problems/blob/30c6348ffc61788aa86ae6d94c9a2e0b407949c7/Week10/Week10_11.c)
 #
 + Week 11: 구조체, 공용체, 열거형
 	+ *추가예정*  
