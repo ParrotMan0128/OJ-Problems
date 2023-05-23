@@ -11,26 +11,24 @@ int main() {
 
 	printf("%s", test1);
 
+	return 0;
+
 }
 
 void trim_left(char* string) {
 
-	int j;
+	int dis = 0;
 
-	while (*string == ' ') {
+	while (*(string + dis) == ' ') {
 
-		j = 0;
+		dis++;
 
-		if (*string == ' ') {
+	}
 
-			while (*(string + j) != '\0') {
+	while (*string != '\0') {
 
-				*(string + j) = *(string + j + 1);
-				j++;
-
-			}
-
-		}
+		*string = *(string + dis);
+		string++;
 
 	}
 
