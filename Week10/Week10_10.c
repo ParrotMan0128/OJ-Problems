@@ -30,28 +30,17 @@ int main() {
 int checkPalindrome(char* string) {
 
 	int length = strlen(string);
-	int checkSame = round((float)length / 2);
-	int sameCount = 0;
 
-	for (int i = 0; i < checkSame; i++) {
+	for (int i = 0; i < length / 2; i++) {
 
-		if (string[i] == string[length - 1 - i]) {
+		if (string[i] != string[length - 1 - i]) {
 
-			sameCount++;
+			return 0;
 
 		}
 
 	}
 
-	if (checkSame <= sameCount) {
-
-		return 1;
-
-	}
-	else {
-
-		return 0;
-
-	}
+	return 1;
 
 }
