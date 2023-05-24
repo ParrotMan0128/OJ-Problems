@@ -102,12 +102,12 @@
 	[<10>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week8/Week8_10.c)
 #  
 + Week 9: 포인터 *(Completed in 2023-05-17)* *(6 Problems/6 Solved)* ✅
-	+ [<01>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week9/Week9_1.c)
-	[<02>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week9/Week9_2.c)
-	[<03>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week9/Week9_3.c)
-	[<04>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week9/Week9_4.c)
-	[<05>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week9/Week9_5.c)
-	[<06>](https://github.com/ParrotMan0128/OJ-Problems/blob/51f086742c70e2f57150c378c2704a241e4971cd/Week9/Week9_6.c) 
+	+ [<01>](https://github.com/ParrotMan0128/OJ-Problems/blob/e7d92d3771dba6aaa3a0ea83cb752421d7b4bdfc/Week9/Week9_1.c)
+	[<02>](https://github.com/ParrotMan0128/OJ-Problems/blob/e7d92d3771dba6aaa3a0ea83cb752421d7b4bdfc/Week9/Week9_2.c)
+	[<03>](https://github.com/ParrotMan0128/OJ-Problems/blob/e7d92d3771dba6aaa3a0ea83cb752421d7b4bdfc/Week9/Week9_3.c)
+	[<04>](https://github.com/ParrotMan0128/OJ-Problems/blob/e7d92d3771dba6aaa3a0ea83cb752421d7b4bdfc/Week9/Week9_4.c)
+	[<05>](https://github.com/ParrotMan0128/OJ-Problems/blob/e7d92d3771dba6aaa3a0ea83cb752421d7b4bdfc/Week9/Week9_5.c)
+	[<06>](https://github.com/ParrotMan0128/OJ-Problems/blob/e7d92d3771dba6aaa3a0ea83cb752421d7b4bdfc/Week9/Week9_6.c)
 #
 + Week 10: 문자열 *(11 Problems/10 Solved)*
 	+ [<01>](https://github.com/ParrotMan0128/OJ-Problems/blob/30c6348ffc61788aa86ae6d94c9a2e0b407949c7/Week10/Week10_1.c)
