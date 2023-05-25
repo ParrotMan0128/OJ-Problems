@@ -118,7 +118,7 @@
 	[<06>](https://github.com/ParrotMan0128/OJ-Problems/blob/337b5cde5d01a76e2962212438f4cd7cca818983/Week10/Week10_6.c)
 	[<07>](https://github.com/ParrotMan0128/OJ-Problems/blob/337b5cde5d01a76e2962212438f4cd7cca818983/Week10/Week10_7.c)
 	[<08>](https://github.com/ParrotMan0128/OJ-Problems/blob/337b5cde5d01a76e2962212438f4cd7cca818983/Week10/Week10_8.c)
-	[<19>](https://github.com/ParrotMan0128/OJ-Problems/blob/337b5cde5d01a76e2962212438f4cd7cca818983/Week10/Week10_9.c)
+	[<09>](https://github.com/ParrotMan0128/OJ-Problems/blob/337b5cde5d01a76e2962212438f4cd7cca818983/Week10/Week10_9.c)
 	[<10>](https://github.com/ParrotMan0128/OJ-Problems/blob/337b5cde5d01a76e2962212438f4cd7cca818983/Week10/Week10_10.c)
 #
 + Week 11: 구조체, 공용체, 열거형
