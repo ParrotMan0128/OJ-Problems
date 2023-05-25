@@ -108,8 +108,8 @@
 	[<04>](https://github.com/ParrotMan0128/OJ-Problems/blob/337b5cde5d01a76e2962212438f4cd7cca818983/Week9/Week9_4.c)
 	[<05>](https://github.com/ParrotMan0128/OJ-Problems/blob/337b5cde5d01a76e2962212438f4cd7cca818983/Week9/Week9_5.c)
 	[<06>](https://github.com/ParrotMan0128/OJ-Problems/blob/337b5cde5d01a76e2962212438f4cd7cca818983/Week9/Week9_6.c)
-#
-+ Week 10: 문자열 *(11 Problems/10 Solved)*
+# 
++ Week 10: 문자열 *(10 Problems/10 Solved)* ✅
 	+ [<01>](https://github.com/ParrotMan0128/OJ-Problems/blob/337b5cde5d01a76e2962212438f4cd7cca818983/Week10/Week10_1.c)
 	[<02>](https://github.com/ParrotMan0128/OJ-Problems/blob/337b5cde5d01a76e2962212438f4cd7cca818983/Week10/Week10_2.c)
 	[<03>](https://github.com/ParrotMan0128/OJ-Problems/blob/337b5cde5d01a76e2962212438f4cd7cca818983/Week10/Week10_3.c)
