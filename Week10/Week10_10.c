@@ -1,46 +1,28 @@
 ﻿#include <stdio.h>
 #include <string.h>
-#include <math.h>
 
-int checkPalindrome(char* string);
+void createFiveFiles(char* name);
 
 int main() {
 
-	char string[32];
+	char fileName[32];
 
-	printf("문자열을 입력하시오: ");
+	printf("파일 이름의 첫 부분을 입력하시오: ");
 
-	gets(string);
+	gets(fileName);
 
-	if (checkPalindrome(string) == 1) {
-
-		printf("%s는 회문입니다.", string);
-
-	}
-	else {
-
-		printf("%s는 회문이 아닙니다.", string);
-
-	}
+	createFiveFiles(fileName);
 
 	return 0;
 
 }
 
-int checkPalindrome(char* string) {
+void createFiveFiles(char* name) {
 
-	int length = strlen(string);
+	for (int i = 0; i < 5; i++) {
 
-	for (int i = 0; i < length / 2; i++) {
-
-		if (string[i] != string[length - 1 - i]) {
-
-			return 0;
-
-		}
+		printf("%s%d.png ", name, i);
 
 	}
-
-	return 1;
 
 }

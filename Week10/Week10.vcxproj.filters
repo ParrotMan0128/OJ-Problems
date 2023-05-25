@@ -33,19 +33,16 @@
     <ClCompile Include="Week10_6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Week10_7.c">
+    <ClCompile Include="Week10_8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Week10_8.c">
+    <ClCompile Include="Week10_9.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Week10_10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Week10_11.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Week10_9.c">
+    <ClCompile Include="Week10_7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

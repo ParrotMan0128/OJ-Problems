@@ -5,11 +5,11 @@ void trim_left(char* string);
 
 int main() {
 
-	char test1[] = "  This is a house.";
+	char test2[] = "  This Is A House.";
 
-	trim_left(test1);
+	trim_left(test2);
 
-	printf("%s", test1);
+	printf("%s", test2);
 
 	return 0;
 
