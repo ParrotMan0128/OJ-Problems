@@ -109,7 +109,7 @@
 	[<05>](https://github.com/ParrotMan0128/OJ-Problems/blob/ea2684fe0480f35369c310394b6f40bc8639f4c5/Week9/Week9_5.c)
 	[<06>](https://github.com/ParrotMan0128/OJ-Problems/blob/ea2684fe0480f35369c310394b6f40bc8639f4c5/Week9/Week9_6.c)
 # 
-+ Week 10: 문자열 *(Completed in 2023-05-24)* *(10 Problems/10 Solved)* ✅ㅗ
++ Week 10: 문자열 *(Completed in 2023-05-24)* *(10 Problems/10 Solved)* ✅
 	+ [<01>](https://github.com/ParrotMan0128/OJ-Problems/blob/ea2684fe0480f35369c310394b6f40bc8639f4c5/Week10/Week10_1.c)
 	[<02>](https://github.com/ParrotMan0128/OJ-Problems/blob/ea2684fe0480f35369c310394b6f40bc8639f4c5/Week10/Week10_2.c)
 	[<03>](https://github.com/ParrotMan0128/OJ-Problems/blob/ea2684fe0480f35369c310394b6f40bc8639f4c5/Week10/Week10_3.c)
