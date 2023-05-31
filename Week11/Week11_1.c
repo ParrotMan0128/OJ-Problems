@@ -10,13 +10,7 @@
 
 struct student {
 
-	union number {
-
-		char StudentNumner[MAX_LENGTH];
-		char ResidentNubmer[MAX_LENGTH];
-
-	};
-
+	char Number[MAX_LENGTH];
 	char Name[MAX_LENGTH];
 	char PhoneNumber[MAX_LENGTH];
 
