@@ -122,7 +122,7 @@
 	[<10>](https://github.com/ParrotMan0128/OJ-Problems/blob/56e15ffe4a493526ddf6adb3df19a89f5a278a01/Week10/Week10_10.c)
 #
 + Week 11: 구조체, 공용체, 열거형 *(Completed in 2023-05-31)* *(7 Problems/7 Solved)* ✅
-	+ [<01>](https://github.com/ParrotMan0128/OJ-Problems/blob/56e15ffe4a493526ddf6adb3df19a89f5a278a01/Week11/Week11_1.cㅗ)
+	+ [<01>](https://github.com/ParrotMan0128/OJ-Problems/blob/56e15ffe4a493526ddf6adb3df19a89f5a278a01/Week11/Week11_1.c)
 	[<02>](https://github.com/ParrotMan0128/OJ-Problems/blob/56e15ffe4a493526ddf6adb3df19a89f5a278a01/Week11/Week11_2.c)
 	[<03>](https://github.com/ParrotMan0128/OJ-Problems/blob/56e15ffe4a493526ddf6adb3df19a89f5a278a01/Week11/Week11_3.c)
 	[<04>](https://github.com/ParrotMan0128/OJ-Problems/blob/56e15ffe4a493526ddf6adb3df19a89f5a278a01/Week11/Week11_4.c)
